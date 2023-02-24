@@ -1,0 +1,28 @@
+*{
+	-fx-font: 16px "Roboto";
+	-fx-text-alignment: left;
+}
+
+.button {
+    -fx-text-fill: #fff;
+    -fx-padding: 10;
+    -fx-background-color: transparent;
+    -fx-cursor: hand;
+    -fx-min-width: 100;
+}
+
+.Vbox{
+	-fx-translate-x: -0;
+	-fx-translate-y: 50;
+}
+
+.LevelSelection{
+	-fx-translate-y: 80;
+	-fx-translate-x: -50;
+}
+
+.Settings{
+	-fx-translate-y: 100;
+	-fx-translate-x: -50;
+
+}

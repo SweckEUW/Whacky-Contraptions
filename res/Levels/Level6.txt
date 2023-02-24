@@ -1,0 +1,48 @@
+false
+Portal
+-218.57/188.57143
+0.8
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+Portal
+71.79/204.10715
+0.8
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+Bucket
+57.32144/-113.57144
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+Hairdryer
+-53.03572/-72.86
+0.4
+113.84
+1.0E9
+direction TODO 
+speed TODO 
+false
+BasketBall
+-144.64285/181.07
+1.0
+0.0
+1.0
+direction TODO 
+speed TODO 
+true
+Spinner
+-73.92858/101.25
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 

@@ -1,0 +1,71 @@
+*{
+	-fx-focus-color: transparent;
+}
+
+.tab-pane{
+    -fx-tab-min-width:90px;
+    -fx-max-height:200px;
+    -fx-padding: 0 150 0 150;
+   	-fx-effect: dropshadow(gaussian , rgb(1,1,1,0.3), 15, 0.2, 0, 0);	
+}
+
+.tab {
+	-fx-text-fill: rgb(0,0,0);
+	-fx-background-radius: 10 10 0 0;
+    -fx-background-insets: 0, 0 5 0 0, 1 6 0 0 ;
+    -fx-padding: 4 4 4 4 ;
+    -fx-background-color: transparent, transparent , white;
+    -fx-font: 16px "Roboto";
+}
+
+.tab:selected {
+	-fx-background-color: transparent, transparent , #f77949;
+}
+
+.tab:selected .tab-label {
+	-fx-text-fill: rgb(255,255,255);
+}
+
+.tab-pane .tab-header-background{
+	-fx-background-color: transparent;
+}
+
+.tab-content-area{
+	-fx-padding: 10 10 10 10;
+	-fx-border-width: 8 0 0 0;
+	-fx-border-color: #f77949;
+	-fx-background-image: url("../Backgrounds/background3.jpg");
+	-fx-background-size: 1500 500;
+	-fx-font: 16px "Roboto";
+}
+
+.TabElement:hover{
+	-fx-cursor: hand;
+	-fx-opacity: 1;
+	-fx-border-color: #f77949;
+}
+
+.TabElement{	
+	-fx-opacity: 0.7;
+	-fx-border-width: 4;
+	-fx-border-radius: 8;
+	-fx-border-color: transparent;
+}
+
+.TabElement .label{
+	-fx-font: 15px "Roboto";
+	-fx-text-fill: black;
+}
+
+.circle{
+	-fx-fill: white;
+	-fx-effect: dropshadow(three-pass-box, rgb(1,1,1,0.7), 10, 0, 0, 0);
+}
+
+.scroll-pane{
+   -fx-background-color:transparent;
+}
+
+.scroll-pane .viewport {
+   -fx-background-color: transparent;
+}

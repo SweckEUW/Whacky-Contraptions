@@ -1,0 +1,32 @@
+true
+Magnet
+-55.71/-100.17856
+1.0
+57.92
+1.0E9
+direction TODO 
+speed TODO 
+false
+Plane
+-163.93/46.60714
+0.4
+153.64
+1.0E9
+direction TODO 
+speed TODO 
+false
+Bucket
+150.0/-120.53572
+0.4
+3.14
+1.0E9
+direction TODO 
+speed TODO 
+false
+BasketBall
+-233.03572/129.64
+1.0
+0.0
+1.0
+direction TODO 
+speed TODO 

@@ -1,0 +1,104 @@
+false
+TennisBall
+-165.54/160.7143
+1.0
+0.0
+0.5
+direction TODO 
+speed TODO 
+false
+Plane
+-188.0357/85.71428
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+TennisBall
+-237.85715/154.82143
+1.0
+0.0
+0.5
+direction TODO 
+speed TODO 
+false
+TennisBall
+-139.28572/125.35714
+1.0
+0.0
+0.5
+direction TODO 
+speed TODO 
+false
+TennisBall
+-228.75/129.10715
+1.0
+0.0
+0.5
+direction TODO 
+speed TODO 
+false
+TennisBall
+-206.25/173.04
+1.0
+0.0
+0.5
+direction TODO 
+speed TODO 
+false
+TennisBall
+-182.14285/120.53572
+1.0
+0.0
+0.5
+direction TODO 
+speed TODO 
+true
+Magnet
+-313.93/120.53572
+1.0
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+Plane
+252.32/125.35714
+0.4
+89.17
+1.0E9
+direction TODO 
+speed TODO 
+true
+Hairdryer
+319.29/-2.6785812
+0.8196
+178.54
+1.0E9
+direction TODO 
+speed TODO 
+false
+Plane
+-178.39/-107.14284
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+BasketBall
+-248.04/-73.92856
+1.0
+0.0
+1.0
+direction TODO 
+speed TODO 
+false
+Bucket
+-305.89/-143.03572
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 

@@ -1,0 +1,64 @@
+false
+YogaMat
+-71.25/-39.107162
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+true
+Magnet
+49.29/-11.25
+1.0
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+BasketBall
+-86.78572/121.60714
+1.0
+0.0
+1.0
+direction TODO 
+speed TODO 
+false
+Portal
+48.75/26.25
+0.8
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+Portal
+211.61/185.35715
+0.8
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+Bucket
+101.78572/113.57
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+true
+Hairdryer
+319.29/207.85715
+0.4
+175.49
+1.0E9
+direction TODO 
+speed TODO 
+false
+Plane
+60.0/219.64285
+0.4
+45.19
+1.0E9
+direction TODO 
+speed TODO 

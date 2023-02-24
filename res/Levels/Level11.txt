@@ -1,0 +1,40 @@
+false
+Spinner
+17.68/-17.14286
+0.8149
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+true
+Magnet
+-317.6786/216.43
+1.0
+-32.62
+1.0E9
+direction TODO 
+speed TODO 
+false
+Plane
+-228.75/101.25
+0.4
+148.31
+1.0E9
+direction TODO 
+speed TODO 
+false
+Bucket
+293.57/-108.21428
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+BasketBall
+-220.71428/162.32143
+1.0
+0.0
+1.0
+direction TODO 
+speed TODO 

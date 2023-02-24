@@ -1,0 +1,101 @@
+.vbox{
+	-fx-background-color: #333333;
+	-fx-min-width: 170px;
+	-fx-max-width: 170px;
+}
+
+.section{
+	-fx-padding: 20 0 0 20;
+}
+
+.fakeButton{
+	-fx-font: 15px "Roboto";
+    -fx-text-fill: #fff;
+    -fx-background-color: transparent;
+    -fx-border-color: #333333;
+    -fx-max-width: 100;
+    -fx-min-height: 40;
+    -fx-cursor: hand;
+}
+
+.fakeButton:hover{
+    -fx-border-color: #fff;
+}
+
+.button {
+	-fx-cursor: hand;
+    -fx-font: 15px "Roboto";
+    -fx-text-fill: #fff;
+    -fx-background-color: transparent;
+    -fx-border-color: #333333;
+    -fx-min-height: 50;
+    -fx-min-width: 100;
+}
+
+.button:hover{
+    -fx-border-color: #fff;
+}
+
+.delete{
+    -fx-padding: 2;
+    -fx-min-width: 20;
+     -fx-border-width: 1;
+	-fx-border-color: #333333;
+}
+
+.delete:hover{
+	-fx-cursor: hand;
+    -fx-border-width: 1;
+	-fx-border-color: white;
+}
+
+.slider{
+	 -fx-cursor: hand;
+	 -fx-min-height: 150;
+	 -fx-max-height: 150;
+	 -fx-padding: 0 5 5 12;
+}
+
+
+.label {
+    -fx-text-fill: #fff;
+}
+
+.text-field {
+	-fx-font: 12px "Roboto";
+    -fx-text-fill: white;
+    -fx-text-alignment: left;
+    -fx-border-width: 1;
+	-fx-border-color: white;
+	-fx-border-radius: 3px;
+	-fx-background-color: black;
+	-fx-max-width: 70;
+	-fx-max-height: 20;
+	-fx-min-height: 20;
+}
+
+.text-field:focused {
+    
+}
+
+.check-box{
+	 -fx-text-fill: #fff; 
+	 -fx-font: 14px "Roboto";	
+}
+
+.check-box .box {
+	-fx-background-color: #333333;
+	-fx-border-color: white;
+	-fx-border-radius: 3px; 
+}
+
+.check-box:selected .mark {
+	-fx-background-color: white;
+}
+
+.check-box > .box {
+    -fx-padding: 3px;
+}
+.check-box > .box > .mark {
+    -fx-padding: 4px;
+}

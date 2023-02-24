@@ -6,38 +6,24 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "MAIN.Main",
+            "projectName": "Code_24318098",
+            "vmArgs": "--module-path 'C:/Users/Simon/Desktop/Daten/Uni/Projekte Alt/Visual Computing II Projekt/Code/lib/javafx-sdk-19.0.2.1/lib' --add-modules=javafx.base,javafx.controls,javafx.fxml,javafx.graphics,javafx.media,javafx.swing"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
         },
         {
             "type": "java",
-            "name": "Launch LightTestMain",
-            "request": "launch",
-            "mainClass": "Computergrafik.LightTest.LightTestMain",
-            "projectName": "Code_2a6cea15"
-        },
-        {
-            "type": "java",
-            "name": "Launch OBJLoaderMain",
-            "request": "launch",
-            "mainClass": "Computergrafik.OBJLoaderTest.OBJLoaderMain",
-            "projectName": "Code_2a6cea15"
-        },
-        {
-            "type": "java",
-            "name": "Launch PrimitiveMain",
-            "request": "launch",
-            "mainClass": "Computergrafik.PrimitveTest.PrimitiveMain",
-            "projectName": "Code_2a6cea15"
-        },
-        {
-            "type": "java",
             "name": "Launch Main",
             "request": "launch",
-            "mainClass": "UniverseSimulationMain.Main",
-            "projectName": "Code_2a6cea15",
-            "vmArgs": "-Djava.library.path='C:/Users/Simon/Desktop/Daten/Uni/Projekte Alt/Visual Computing I Projekt/Code/lib/opencv/build/java/x64'"
+            "mainClass": "MAIN.Main",
+            "projectName": "Whacky-Contraptions_3f58e011"
         }
     ]
 }

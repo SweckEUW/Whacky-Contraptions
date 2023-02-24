@@ -1,0 +1,32 @@
+true
+Hairdryer
+-294.64285/-80.89
+0.4
+42.54
+1.0E9
+direction TODO 
+speed TODO 
+true
+Hairdryer
+143.04/259.82144
+0.4
+-85.24
+1.0E9
+direction TODO 
+speed TODO 
+false
+Bucket
+215.89284/-84.10716
+0.4
+0.0
+1.0E9
+direction TODO 
+speed TODO 
+false
+BasketBall
+-181.07143/234.10715
+1.0
+0.0
+1.0
+direction TODO 
+speed TODO 
