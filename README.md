@@ -2,4 +2,4 @@ Crazier Machines is the name of a little game we create for a simulation course 
 
 More information:
 
-https://sweck.de/CrazierMachines/
+https://simonweck.de/Work/Whacky-Contraptions
