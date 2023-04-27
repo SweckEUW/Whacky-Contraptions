@@ -1,5 +1,3 @@
-Crazier Machines is the name of a little game we create for a simulation course at my university. We had to create a 2D physics engine that features algorithms for collision detection and collision resolution. Goal of the game is to transport a ball into a bucket and the user has certain objects at disposal to achieve that. Objects can be freely placed into the scene and when the simulation is running the moveable objects collide phisically correcttly with the other objects.
+"Whacky Contraptions" is the name of the game we create for a simulation course at my university. We create a 2D physics engine that includes algorithms for physically correct collision handling. Goal of the game is to transport a ball into a bucket, the user has multiple objects at hand to achieve this. Objects can be freely placed into the scene and when the simulation is running the moveable objects collide physically correctly with the other objects.
 
-More information:
-
-https://simonweck.de/Work/Whacky-Contraptions
+More information: https://simonweck.de/Work/Whacky-Contraptions
